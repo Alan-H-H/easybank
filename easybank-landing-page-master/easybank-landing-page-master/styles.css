@@ -223,7 +223,7 @@ footer path:hover{
     .hamburger{
         display: flex;
         position: right;
-        padding-right: 7em;
+        padding-right: 5em;
     }
     header nav{
         display: none;
@@ -264,20 +264,15 @@ footer path:hover{
         flex-direction: column;
         margin-top: 25em;
         padding-bottom: 20em;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
     }
     .two-hidden button{
-        width: 50%;
-        padding-top: 1.5em;
-        padding-bottom: 1.5em;
+        width: 40%;
+        padding-top: 1em;
+        padding-bottom: 1em;
         font-size: 16px;
-    }
-    .two-hidden p{
-        width: 50%;
-    }
-    .two-hidden h1{
-        width: 50%;
-        font-size: 36px;
-
     }
     .section-two{
         background-color: hsl(220, 16%, 96%);
@@ -287,6 +282,7 @@ footer path:hover{
         display: flex;
         flex-direction: column;
         padding-bottom: 8em;
+        width: 375 px;
     }
     .four{
         width: 375px;
