@@ -239,10 +239,7 @@ footer path:hover{
     }
     .section-1{
         background-color: hsl(0, 0%, 98%);
-        display: flex;
-        text-align: center;
         align-items: center;
-        justify-contet: center;
         padding-bottom: 10em;
     }
     .two{
@@ -264,11 +261,9 @@ footer path:hover{
         width: 375px;
         display: flex;
         flex-direction: column;
-        margin-top: 20em;
-        padding-bottom: 20em;
+        margin-top: 22em;
+        padding-bottom: 10em;
         text-align: center;
-        justify-content: center;
-        align-items: center;
     }
     .two-hidden button{
         width: 40%;
