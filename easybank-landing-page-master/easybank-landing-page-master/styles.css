@@ -223,7 +223,6 @@ footer path:hover{
     .hamburger{
         display: flex;
         position: right;
-        padding-right: 5em;
     }
     header nav{
         display: none;
@@ -285,6 +284,7 @@ footer path:hover{
         width: 375px;
         margin-left: 0em;
         text-align: center;
+        padding-right: 0em;
     }
     .five{
         display: flex;
@@ -292,6 +292,7 @@ footer path:hover{
         margin-left: 0em;
         width: 375px;
         text-align: center;
+        padding-right: 0em;
     }
     .five p{
         padding-right: 0em;
