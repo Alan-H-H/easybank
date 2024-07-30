@@ -261,8 +261,10 @@ footer path:hover{
         display: flex;
         flex-direction: column;
         margin-top: 22em;
-        padding-bottom: 10em;
+        padding-bottom: 15em;
         text-align: center;
+        align-items: center;
+        margin-left: 0em;
     }
     .two-hidden button{
         width: 40%;
